@@ -1,8 +1,10 @@
+Made with Marton Szuts.
+
 # Navy
 
 - **Binary name:** navy  
 - **Language:** C  
-- **Group Size:** 1  
+- **Group Size:** 2  
 - **Compilation:** via Makefile, including re, clean and fclean rules  
 
 ## Usage
